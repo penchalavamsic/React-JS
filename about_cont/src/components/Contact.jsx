@@ -1,6 +1,6 @@
 function Contact(){
     return(
-        <div>
+        <div class="card">
             <h1>Contact</h1>
             <table>
                 <tr>Email:cdahyd@gmail.com</tr>
